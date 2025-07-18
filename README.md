@@ -135,7 +135,9 @@ Central produces least in total of renewable energy; However, California produce
 
 
 
-— Task 2: Generating New Data by Energy Type
+— Task 2: 
+
+Generating New Data by Energy Type
 Intel would like to know how renewable energy and fossil fuels trend over time. In order to do this, you will first need to generate a new table using your SQL knowledge and the  intel.energy_data table before visualizing trends in Tableau Cloud. 
 
 
@@ -232,7 +234,9 @@ ORDER BY
 
 
 
-Task 3: Aggregating Power Plant Data
+Task 3: 
+
+Aggregating Power Plant Data
 Intel has provided you with additional data in order to reach the best conclusion about the location of its next data center. In this task you will be working with two tables intel.power_plants and intel.energy_by_power_plant. You will need to join these tables before you can aggregate them to help the Intel team with their analysis.
 
 A.	 Join the intel.power_plants and intel.energy_by_power_plant data on the plant_code. This joined table will form the basis for the rest of the task. 
@@ -361,7 +365,9 @@ D.	What can you say about the renewable energy generation between California (CA
 Northwest produces much more renewable energy than California. Northwest is the region consistently includes the states of Oregon, Washington, Idaho, Montana and Wyoming. Washington and Oregon have the largest producer of hydroelectric power in the US, including the Grand Coulee Dam on the Columbia River. Idaho and Oregon have wind energy production. Washington and Pacific Northwest provide biomass resources from agriculture and forest which can produce up to hundred gallons of biodiesel per year. 
 
 
-— Task 4: Visualizing and Analyzing Using Tableau
+— Task 4: 
+
+Visualizing and Analyzing Using Tableau
 Phew! Now that you’ve gotten the queries out of the way, you’re ready to dive into investigating the best regions for Intel to put its next data center. The remaining Tasks will be completed in Tableau, and will focus on visualizing and analyzing your results. Click this link to navigate  to the workbook you’ll use to complete the remainder of this Project. 
 
 Once you’ve published your Tableau Workbook, paste the Share Link in the box below.
@@ -400,7 +406,9 @@ For this chart you will use the power_plant_energy dataset that you created. You
 
  
 
-— Task 5: Communicating Results
+— Task 5:
+
+Communicating Results
 Your manager wants you to share the visualizations you created in Task 4 with the Sustainability team for visibility. She has created a dashboard with your visualizations (see the “Dashboard” sheet in Tableau) and has asked you to write  a short paragraph explaining which region you recommend that the next data center be built.
 
 A.	In 1-2 paragraphs, summarize what can be gleaned from your visualizations. What region and state do you think is best and why?
