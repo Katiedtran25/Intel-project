@@ -75,7 +75,9 @@ intel.energy_by_plant: Contains total energy production information at the plant
 ________________________________________
 
 
-— Task 1: Energy Generation
+— Task 1: 
+
+Energy Generation
 Let’s first identify regions that are net energy producers. Not all regions generate enough energy to meet the local demand. Some regions purchase power from other regions, while others sell their surplus to regions in need. 
 
 
