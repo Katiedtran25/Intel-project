@@ -19,21 +19,37 @@ In this project  you’ll query 3 datasets as well as write a query to generate 
 Read below to learn more about the datasets and their features.
 
 intel.energy_data: Contains information about daily energy production and consumption for different regions in the United States. 
+
 ●	balancing_authority - A Balancing Authority is responsible for maintaining the electricity balance within its region. This is a company that makes sure electricity is being exchanged between electric providers and regions so that no region runs out of electricity due to high demand.
+
 ●	date - The date the energy was produced.
+
 ●	region - The electric service area within a geographic area of the USA. e.g. California, Midwest, etc.
+
 ●	time_at_end_of_hour - The time and date after energy was generated, .e.g., energy generated between 1pm-2pm will show up as 2pm in this field.
+
 ●	demand - The energy demand in megawatts (MW)  on the grid (what the houses/business are using).
+
 ●	net_generation - The energy produced in MW in  the region by all sources e.g., wind, coal, nuclear, etc.
+
 ●	all_petroleum_products - The energy produced in MW by petroleum products.
+
 ●	coal - The energy produced in MW by all coal products
+
 ●	hydropower_and_pumped_storage - The energy produced in MW by water power and pumped heat sources.
+
 ●	natural_gas - The energy produced in MW by natural gas sources
+
 ●	nuclear - The energy produced in MW from nuclear fuel sources
+
 ●	solar - The energy produced in MW by solar panels and other solar energy capturing methods.
+
 ●	wind - The energy produced in MW from wind turbines and other wind sources.
 
+
+
 intel.power_plants: Contains general  information about power plants in the United States.
+
 ●	plant_name  - The name of the power plant.
 ●	plant_code - The unique identifier of the plant.
 ●	region - The region in the US where the power plant is located. Matches the regions in the intel.energy_data
