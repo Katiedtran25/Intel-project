@@ -6,11 +6,7 @@ INTRODUCTION: Intel, the semiconductor manufacturing powerhouse, is planning on 
 
 In this  project, co-designed with Intel's Sustainability Team, you'll  write SQL queries that will power  your analysis and create visualizations that will help the Intel team select the best location for the new data center. 
 
-HOW IT WORKS: Follow the prompts in the questions below to investigate your data. Post your answers in the provided boxes: the yellow boxes for the queries you write, purple boxes for visualizations and blue boxes for text-based answers. When you're done, export your document as a pdf file and submit it on the Milestone page – see instructions for creating a PDF at the end of the Milestone.
 
-RESOURCES: If you need hints on the Milestone or are feeling stuck, there are multiple ways of getting help. Attend Drop-In Hours to work on these problems with your peers, or reach out to the HelpHub if you have questions. Good luck!
-
-SQL App: Here’s that link to our specialized SQL app, where you’ll write your SQL queries and interact with the data. 
 
 
 — Data Set Descriptions 
