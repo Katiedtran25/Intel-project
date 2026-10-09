@@ -1,7 +1,31 @@
-Intel Data Center
- 
+Intel Data Center Market Research: Energy Analysis and Location Recommendation
+
+**Tools:** SQL, Tableau Cloud, Data Analysis, Energy Market Research, Data Visualization
+
+**Project Overview**
+
+Conducted an energy market research and data analytics project to support Intel's evaluation of potential locations for a new data center. Using U.S. regional energy generation, consumption, and power plant datasets, I analyzed net energy production, renewable energy availability, fossil fuel generation, and power plant distribution to identify regions with promising energy resources and sustainability advantages.
+
+**Methodology**
+
+* **SQL Data Analysis:** Queried and aggregated energy production and consumption data to identify regions with the greatest net energy surplus.
+* **Renewable Energy Assessment:** Compared total renewable energy generation and the percentage of electricity generated from renewable sources, including wind, solar, and hydropower.
+* **Power Plant Analysis:** Joined power plant datasets using plant identifiers to evaluate energy generation by state, region, and energy source.
+* **Trend Analysis:** Examined changes in renewable and fossil fuel energy generation over time and compared hourly renewable energy generation patterns across selected regions.
+* **Tableau Cloud Visualization:** Built interactive charts and dashboards to compare regional energy surpluses, renewable energy percentages, energy source trends, and state-level power generation.
+
+**Key Findings and Recommendation**
+
+The analysis identified the Northwest as a promising region based on its reported energy surplus and renewable energy generation. The project findings indicated that renewable sources accounted for approximately 52% of the region's total energy generation in the analyzed dataset. Washington was considered a potential location due to its proximity to Intel's Oregon headquarters and its technology workforce. The recommendation was intended to support further site evaluation based on energy availability, sustainability considerations, and geographic convenience.
+
+**Project Outcome**
+
+Delivered a data-driven regional comparison and location recommendation using SQL-based analysis and Tableau Cloud visualizations. Demonstrated skills in market research, data aggregation, relational data joins, energy trend analysis, dashboard development, and communicating analytical findings to support strategic business decisions.
+
+**Business Considerations:** The analysis provides an initial screening of regional energy conditions. A final data center location decision would also require verification of electricity prices, grid reliability, available transmission capacity, water requirements, land costs, infrastructure, and permitting constraints.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTRODUCTION: Intel, the semiconductor manufacturing powerhouse, is planning on building a new data center. Energy availability and usage are some of the key considerations in deciding on a location of the data center. For example, which regions produce a surplus of energy, and are therefore more likely to provide energy at cheaper prices?  Which regions rely more on renewable energy sources? 
 
 In this  project, co-designed with Intel's Sustainability Team, you'll  write SQL queries that will power  your analysis and create visualizations that will help the Intel team select the best location for the new data center. 
